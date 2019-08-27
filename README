@@ -1,0 +1,12 @@
+First version of LCD display
+    based on void func
+
+user need to enter a number
+
+program will convert it to LCD mode:
+         _
+        |_|
+        |_|
+        
+special char (like "."",""-""_") 
+    will be convert to space
